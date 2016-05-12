@@ -11,7 +11,7 @@ ImageMagick is a toy from Apostrophe's CMS sandbox concept. I'll see what I can 
 
 End result may be a sort of IMAGE Gallery CMS based off of this stack. HRM.
 
-ImageMagick, MongoDB, Node.js, AngularJS, Kraken/Express, Dust 
+ImageMagick, MongoDB, Node.js, AngularJS, Koa, Dust 
 
 Let us see if it works out. 
 
@@ -23,7 +23,7 @@ Theory, intial -
 
 Install MEAN.IO
 
-Add Kraken
+Add Koa
 
 Add Dust
 
